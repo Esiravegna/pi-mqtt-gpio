@@ -12,13 +12,14 @@ GPIO Modules
 - PCF8574 IO chip (`pcf8574`)
 - PiFaceDigital 2 IO board (`piface2`)
 - Beaglebone GPIO (`beaglebone`)
-
+- Orange Pi ZerO (`orangepizero`)
 Sensors
 -------
 
 - LM75 i2c temperature sensor (`lm75`)
 - DHT11 DHT22 AM2302 temperature/humidity sensor (`dht22`)
 - BH1750 light level sensor (`bh1750`)
+- MAX44009 light level sensor (`max44009`)
 
 Installation
 ------------
